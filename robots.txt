@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pregnancy-tracker-all-earth.vercel.app/sitemap.xml
